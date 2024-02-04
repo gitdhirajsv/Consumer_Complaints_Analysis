@@ -45,7 +45,7 @@ This project was completed as part of the Data Science with Python module assess
 Summarize your findings and insights from the analysis.
 
 ## Contributors
-- [Your Name](https://github.com/gitdhirajsv)
+- [Dhiraj Suryavanshi](https://github.com/gitdhirajsv)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
